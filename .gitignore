@@ -1,0 +1,11 @@
+db.sqlite3
+*.DS_Store
+*__pycache__
+api/migrations/*
+!api/migrations/__init__.py
+static/
+contacts/
+reset_db.sh
+run.sh
+venv/
+.vscode/
